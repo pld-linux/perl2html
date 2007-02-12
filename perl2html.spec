@@ -1,5 +1,5 @@
 Summary:	perl2html - converts perl files to HTML
-Summary(pl):	perl2html - konwerter ºrÛde≥ perlowych do HTML-a
+Summary(pl.UTF-8):   perl2html - konwerter ≈∫r√≥de≈Ç perlowych do HTML-a
 Name:		perl2html
 Version:	0.9.2
 Release:	0.1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 perl2html highlights perl-language sources like emacs does. Output is
 in HTML format. Also works as CGI to convert files on the fly.
 
-%description -l pl
-perl2html pod∂wietla sk≥adniÍ ºrÛde≥ w Perlu podobnie jak emacs.
-Wyj∂cie jest w formacie HTML. Dzia≥a takøe jako CGI konwertuj±c pliki
+%description -l pl.UTF-8
+perl2html pod≈õwietla sk≈Çadniƒô ≈∫r√≥de≈Ç w Perlu podobnie jak emacs.
+Wyj≈õcie jest w formacie HTML. Dzia≈Ça tak≈ºe jako CGI konwertujƒÖc pliki
 w locie.
 
 %prep
