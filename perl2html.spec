@@ -1,5 +1,5 @@
 Summary:	perl2html - converts perl files to HTML
-Summary(pl.UTF-8):   perl2html - konwerter źródeł perlowych do HTML-a
+Summary(pl.UTF-8):	perl2html - konwerter źródeł perlowych do HTML-a
 Name:		perl2html
 Version:	0.9.2
 Release:	0.1
